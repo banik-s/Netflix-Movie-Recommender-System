@@ -1,0 +1,11 @@
+/* styles.css */
+.reportview-container {
+    background: url('2.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.sidebar .sidebar-content {
+    background: rgba(255, 255, 255, 0.8);
+}
+.css-18e3th9 {
+    background-color: rgba(255, 255, 255, 0.8);
+}
